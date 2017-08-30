@@ -1,6 +1,5 @@
 # python-image-downloader
-Clase para descargar imágenes de Google Images (también de otros sitios)
-
+Library to download images from Google Images (other sites also)
 
 ```python
 from image_downloader import *
