@@ -1,5 +1,5 @@
-# python-image-downloader
-Library to download images from Google Images (other sites also)
+# What is Python Image Downloader?
+Python Image Downloader is a library to download images from Google Images (other sites also)
 
 ```python
 from image_downloader import *
@@ -17,3 +17,5 @@ TODO
 ====
 
 * Documentation
+* Refactoring
+* Python 3 fixes
